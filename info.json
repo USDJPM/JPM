@@ -1,0 +1,21 @@
+{
+  "name": "JPM TRC20",
+  "website": "https://www.usdjpm.com",
+  "description": "JPM TRC20: The Evolution in the World of Decentralized Cryptocurrencies.",
+  "explorer": "https://tronscan.org/#/contract/TRtgjeEnCYK5LHgZui47ph3ge6dSyiPswJ/code",
+  "type": "TRC20",
+  "symbol": "JPM",
+  "decimals": " 18",
+  "status": "active",
+  "id": "trtgjeencyk5lhgzui47ph3ge6dsyipswj",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/usdjpm"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/usdjpm"
+    }
+  ]
+}
